@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1573070572 source:f:\nsu\fall2019\cse225l practice\lab04 task02\main.cpp
+	<iostream>
+	"UnsortedType.h"
+	"StudentInfo.h"
+
+1573064189 f:\nsu\fall2019\cse225l practice\lab04 task02\unsortedtype.h
+	"UnsortedType.tpp"
+
+1573065334 f:\nsu\fall2019\cse225l practice\lab04 task02\unsortedtype.tpp
+	<iostream>
+	"UnsortedType.h"
+	"StudentInfo.h"
+
+1573070572 f:\nsu\fall2019\cse225l practice\lab04 task02\studentinfo.h
+	<iostream>
+	<string>
+	"StudentInfo.tpp"
+
+1573070650 f:\nsu\fall2019\cse225l practice\lab04 task02\studentinfo.tpp
+	"StudentInfo.h"
+	<iostream>
+
